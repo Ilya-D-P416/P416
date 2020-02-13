@@ -1,0 +1,21 @@
+h1 {
+	color: #8B24D0;
+	font-family: monospace !important;
+	line-height: 1.3em;
+}
+
+h2 {
+	color: #8B24D0;
+	font-family: monospace !important;
+	line-height: 1.3em;
+}
+
+tr {
+	font-family: monospace !important;
+	line-height: 1.3em;
+}
+
+li {
+	color: #000000;
+	font-family: monospace !important;
+}
